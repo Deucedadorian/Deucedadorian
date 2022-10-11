@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deucedadorian
 - 👀 I’m interested in open-source, entrepreneurship, surfing, and meditation
 - 🌱 I’m currently learning about the history of Twitter and programming in c
-- 💞️ I’m looking to collaborate on interesting project using bleeding-edge tools
+- 💞️ I’m looking to collaborate on interesting project using bleeding-edge technology
 - 📫 How to reach me email, linkedin, twitter, discord
 
 <!---
